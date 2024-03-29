@@ -1,4 +1,4 @@
-# Sentweet: Twitter Sentiment Analysis using Python
+# Sentweet: Twitter Sentiment Analysis
 
 💫 Aim
 
