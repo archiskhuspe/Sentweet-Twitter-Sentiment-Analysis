@@ -12,13 +12,13 @@ This project presents the analysis of the Twitter posts of a particular account 
 
 ## Solution
 
-The project is established upon 2 major aspects :
+The project is established upon 2 major aspects:
 
 ### Machine Learning
 
 Machine learning (ML) is an element of artificial intelligence that analyses mainframe algorithms. Machine learning algorithms make choices and predictions by constructing a model based on sample data without being explicitly programmed. These algorithms are operated in numerous cases, such as in health care, filtering emails, speech detection, and computing. They come in handy in situations where it can be tough or impracticable to develop standard algorithms to accomplish such tasks.
 
-The general steps involved in Machine learning in the context of this project are :
+The general steps involved in Machine learning in the context of this project are:
 
 ◦ Adding the prerequisite libraries
 ◦ Model developing
@@ -31,7 +31,7 @@ The general steps involved in Machine learning in the context of this project ar
 
 Python is a construed, all-purpose programming language. It accentuates code readability with the use of substantial indentation. The language is programmed to help programmers write well-defined, rational code for small and large projects.
 
-The libraries used in this project are :
+The libraries used in this project are:
 
 ◦ Tweepy
 ◦ Text blob
